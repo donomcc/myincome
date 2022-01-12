@@ -1,0 +1,49 @@
+#calculate {
+}
+#fulldiv {
+  margin: 0 auto;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #393e46;
+}
+footer {
+  text-align: center;
+}
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ecca3;
+}
+p {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ecca3;
+}
+label {
+  font-family: "Lobster", cursive;
+  color: #4ecca3;
+}
+input {
+  background-color: #393e46;
+  color: white;
+  width: 40px;
+}
+.btn-primary {
+  color: #212529;
+  background-color: #7cc;
+  border-color: #5bc2c2;
+}
+
+.btn-primary:hover {
+  color: #212529;
+  background-color: #52bebe;
+  border-color: #8ad3d3;
+}
