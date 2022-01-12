@@ -1,2 +1,2 @@
 # myincome
-source code for website myincome.io
+source code for my website myincome.io
