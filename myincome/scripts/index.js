@@ -3,5 +3,5 @@ function calcSalary() {
     var hours = parseFloat(document.getElementById('txt_hours').value);
     var calculate = wage * hours * 52;
     
-    document.getElementById('results').innerHTML = "$"+calculate;
+    document.getElementById('results').innerHTML = "$"+calculate.toLocaleString('en-US');
    }
