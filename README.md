@@ -1,2 +1,3 @@
 # myincome
-source code for my website myincome.io
+
+Enter your hourly wage and hours worked to see your yearly salary.
